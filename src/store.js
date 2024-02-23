@@ -11,7 +11,7 @@ const useStore = create(
       language: "plaintext",
       autoDetectLanguage: false,
       fontSize: 18,
-      fontStyle: "robotoMono",
+      fontStyle: "SFMono",
       padding: 64,
     }),
     {
