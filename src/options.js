@@ -125,7 +125,7 @@ export const fonts = {
     src: "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap",
   },
   robotoMono: {
-    name: "SF Mono",
+    name: "Roboto Mono",
     src: "https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap",
   },
   ubuntuMono: {
