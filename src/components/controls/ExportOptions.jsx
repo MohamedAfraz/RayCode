@@ -87,7 +87,7 @@ export default function ExportOptions({ targetRef }) {
   }
 
   useHotkeys("ctrl+c", copyImage)
-  useHotkeys("shift+ctrl+c", copyLink)
+  useHotkeys("shift+ctrl+v", copyLink)
 
   useHotkeys("ctrl+s", (e) => {
     e.preventDefault();
@@ -113,7 +113,7 @@ export default function ExportOptions({ targetRef }) {
         <DropdownMenuItem className="gap-2" onClick={copyLink}>
           <Link2Icon />
           Copy Link
-          <DropdownMenuShortcut>⇧⌘C</DropdownMenuShortcut>
+          <DropdownMenuShortcut>⇧⌘V</DropdownMenuShortcut>
         </DropdownMenuItem>
         <DropdownMenuSeparator />
         <DropdownMenuItem
