@@ -98,7 +98,7 @@ export const themes = {
 export const fonts = {
   SFMono: {
     name: "SF Mono",
-    src: "../public/SFMono-Light.otf",
+    src: "https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap",
   },
   jetBrainsMono: {
     name: "JetBrains Mono",
