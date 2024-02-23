@@ -124,7 +124,7 @@ export const fonts = {
     name: "IBM Plex Mono",
     src: "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap",
   },
-  SFMono: {
+  robotoMono: {
     name: "SF Mono",
     src: "https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap",
   },
