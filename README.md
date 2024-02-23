@@ -47,7 +47,7 @@ ii. Update npm to the latest version. Run:
 
 iii. Install [Git](https://git-scm.com/downloads) and run the installer.
 
-Now follow the steps below !!
+**Now follow the steps below !!**
 
 
 1. Clone this repo
