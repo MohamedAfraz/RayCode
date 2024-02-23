@@ -68,4 +68,6 @@ npm install
 npm run build && npm run dev
 ```
 
-Hope you got it and all is working!! If not start an Issue.
+4. Now open [this link](localhost:5173) to open the project.
+
+Hope you got it and all is working!! If not, feel free to start an [Issue](https://github.com/MohamedAfraz/RayCode/issues)⚡
