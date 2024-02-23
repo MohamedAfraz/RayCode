@@ -96,10 +96,6 @@ export const themes = {
 }
 
 export const fonts = {
-  SFMono: {
-    name: "SF Mono",
-    src: "https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap",
-  },
   jetBrainsMono: {
     name: "JetBrains Mono",
     src: "https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap",
@@ -128,8 +124,8 @@ export const fonts = {
     name: "IBM Plex Mono",
     src: "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap",
   },
-  robotoMono: {
-    name: "Roboto Mono",
+  SFMono: {
+    name: "SF Mono",
     src: "https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap",
   },
   ubuntuMono: {
