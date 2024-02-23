@@ -98,7 +98,7 @@ export const themes = {
 export const fonts = {
   SFMono: {
     name: "SF Mono",
-    src: "https://fonts.cdnfonts.com/css/sf-mono?styles=36550",
+    src: "https://fonts.cdnfonts.com/css/sf-mono",
   },
   jetBrainsMono: {
     name: "JetBrains Mono",
