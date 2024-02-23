@@ -91,10 +91,8 @@ export default function ExportOptions({ targetRef }) {
     e.preventDefault();
   });
   
-  useHotkeys("ctrl+c", copyImage, (e) => {
-    e.preventDefault();
-  });
-
+  useHotkeys("ctrl+c", copyImage)
+  
   useHotkeys("ctrl+s", (e) => {
     e.preventDefault();
     saveImage(title, "PNG");
