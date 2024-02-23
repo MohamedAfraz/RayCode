@@ -98,7 +98,7 @@ export const themes = {
 export const fonts = {
   SFMono: {
     name: "SF Mono",
-    src: "https://sf.abarba.me/SFMono-Light.otf",
+    src: "../public/SFMono-Light.otf",
   },
   jetBrainsMono: {
     name: "JetBrains Mono",
