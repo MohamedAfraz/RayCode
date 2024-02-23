@@ -7,7 +7,7 @@ const DesktopOnlyComponent = () => {
 
       if (isMobile) {
         // If it's a mobile device, redirect to "google.com"
-        window.location.href = '../mobile.html'; // Replace with the desired URL
+        window.location.href = 'https://mobile-raycode.tiiny.site/'; // Replace with the desired URL
       }
     };
 
